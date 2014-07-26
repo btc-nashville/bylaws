@@ -1,4 +1,4 @@
-Copyright (c) {{{year}}} {{{fullname}}}
+Copyright (c) 2014 Tennessee Bitcoin Alliance
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of these legal documents, software, and associated documentation files (the "Works"), to deal
