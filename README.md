@@ -1,6 +1,6 @@
 #README
 
-These are the official Bylaws of the Tennessee Bitcoin Alliance. (http://tennesseebitcoin.org), a Tennessee non-profit corporation.
+These are the proposed Bylaws of the Tennessee Bitcoin Alliance. (http://tennesseebitcoin.org), a Tennessee non-profit corporation.
 
 ##License
 
